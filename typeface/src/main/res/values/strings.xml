@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Typeface</string>
+    <string name="typeface01">OpenSans-字体1</string>
+    <string name="typeface02">OpenSans-字体2</string>
+    <string name="typeface03">OpenSans-字体3</string>
+</resources>
